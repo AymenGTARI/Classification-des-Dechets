@@ -1,2 +1,2 @@
-# Classification-des-Dé
+# Classification-des-Déchets
 chets
